@@ -1,4 +1,4 @@
-# social-media-app-instagram-Mern-tec
+# social-media-app-instagram
 
   * login-register-logout
   * notifcation-update profile
