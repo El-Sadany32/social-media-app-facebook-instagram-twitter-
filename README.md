@@ -2,4 +2,4 @@
 
    
 
- [demo](https://instagram-clone-32.herokuapp.com/)
+ [heroku-demo](https://instagram-clone-32.herokuapp.com/)
