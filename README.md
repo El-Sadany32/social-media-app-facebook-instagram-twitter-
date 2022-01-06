@@ -11,3 +11,8 @@
   * each user cand edit , remove his posts
 
  [heroku-demo](https://instagram-clone-32.herokuapp.com/)
+
+
+#### user interface 
+
+![alt](https://res.cloudinary.com/djamk74m7/image/upload/v1641458287/ecommerce/screencapture-instagram-clone-32-herokuapp-2022-01-06-10_36_00_kcnoui.jpg)
