@@ -1,7 +1,7 @@
 # social-media-app-instagram
 
   * login-register-logout
-  * notifcation-update profile
+  * notifcation-update profile 
   * each user can create posts 
   * like ,reply ,share comments on facebook, whatsApp, gmail, telegram,reddit,twitter and copy link of post
   * chat with other users with vedio and audio calls and share images ,react with frinds
