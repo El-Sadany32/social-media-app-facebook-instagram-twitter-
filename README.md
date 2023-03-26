@@ -1,4 +1,4 @@
-# social-media-app-instagram
+#### social-media-app
 
   * login-register-logout
   * notifcation-update profile 
