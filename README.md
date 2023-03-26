@@ -9,9 +9,3 @@
   * each user can edit his profile and see his posts and his saved posts
   * follow and unfollow new users ,and search users and explore new posts
   * each user cand edit , remove his posts
-
-
-
-#### user interface 
-
-![alt](https://res.cloudinary.com/djamk74m7/image/upload/v1641458287/ecommerce/screencapture-instagram-clone-32-herokuapp-2022-01-06-10_36_00_kcnoui.jpg)
